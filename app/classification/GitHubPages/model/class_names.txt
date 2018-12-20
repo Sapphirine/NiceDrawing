@@ -1,0 +1,15 @@
+duck
+bird
+bee
+flamingo
+dog
+octopus
+bear
+owl
+ant
+pig
+snail
+tiger
+cat
+frog
+penguin
