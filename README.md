@@ -7,6 +7,6 @@ In this project, we built a classification engine for doodle drawings of 15 anim
 
 ![](https://ws2.sinaimg.cn/large/006tNbRwly1fyegrd3g0aj30gr0nm0w3.jpg)
 
-+ **Language/Platform**: Python, Java Script, Google Cloud Platform
++ **Language/Platform**: Python, JavaScript, Google Cloud Platform
 
 + **Analytics Algorithms**: Logistic Regression, CNN, t-SNE
